@@ -1,0 +1,32 @@
+
+INTRODUCTION
+
+
+Python	--> Python 3
+PyCharm -->	Latest COmmunity Version
+Java	--> >8
+Eclipse --> Oxygen
+
+https://github.com/in28minutes/java-to-python-in-100-steps
+
+PDF as reference
+
+
+INSTALLING PYTHON
+Download
+	https://www.python.org/downloads/
+	
+Install the exe on windows
+	checkbox of "Add Python 3.X to PATH" checked
+	
+To check if it was succesfull in cmd type
+	python
+	
+
+INSTALLING PYCHARM
+
+Download
+	https://www.jetbrains.com/pycharm/download/
+	
+Install with the wizard
+	With the deafaults

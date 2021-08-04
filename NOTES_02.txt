@@ -1,0 +1,47 @@
+
+GETTING STARTED
+
+Hello World
+
+Class for Java VS py File for Python
+
+
+1.- No Class neither main method are need(Not wrapped in main method)
+2.- Python support structural and OOP
+3.- No semicolon is not need
+4.- String could be representa with single quotes
+
+
+For take as initial reference we get the java code:
+https://github.com/in28minutes/java-to-python-in-100-steps
+
+Import as existing maven project
+
+
+def keyword fot create a method
+
+	def name_of_method():
+		body_of_method...
+		
+FORMATING 4 spaces is very important
+
+
+Passing parameter do not need to define type
+Example
+
+	def print_hello_world_multiple_times(times):
+		for i in range (1,times+1):
+			print("Hello world")
+
+LOOP WITH RANGE		
+range(start, stop, step)	
+for in in range():
+
+
+FORMATING STRING 
+java
+	System.out.printf("%d X %d = %d", table, i, table * i)
+python
+	print(f"{table} X {i} = {table*i}")
+	
+			
