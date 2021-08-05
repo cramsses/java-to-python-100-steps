@@ -44,4 +44,10 @@ java
 python
 	print(f"{table} X {i} = {table*i}")
 	
-			
+	
+OVERLOADING METHODS	
+In python it cannot be done.
+Instead use default parameters
+
+
+RETURNING VALUES
